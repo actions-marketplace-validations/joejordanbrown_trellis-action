@@ -1,4 +1,4 @@
-name: 'Trellis Deploy'
+name: 'Trellis Deploy - FORK'
 description: |
   Deploy Trellis, Bedrock and Sage(optional) via Github Actions
 branding:
